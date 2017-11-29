@@ -164,3 +164,9 @@ textarea {
 .container {
   max-width: 960px;
 }
+
+/*================*/
+
+@media screen and (max-width: 640px) {
+  .auth-image {width: 100%; }
+}
